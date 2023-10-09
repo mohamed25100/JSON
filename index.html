@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Données JSON</title>
+</head>
+
+<body>
+    <h1>pays</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ISO</th>
+                <th>Nom</th>
+                <th>Capital</th>
+                <th>Superficie</th>
+                <th>Population</th>
+                <th>Continent</th>
+                <th>Code Monnaie</th>
+                <th>Nom Monnaie</th>
+            </tr>
+        </thead>
+        <tbody id="data"></tbody>
+    </table>
+
+    <script>
+        // Charge le fichier JSON
+        fetch('data.json')
+            .then(response => response.json())
+            .then(jsonData => {
+                const tableBody = document.getElementById('data');
+
+                jsonData.forEach(data => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${data.iso}</td>
+                        <td>${data.nom}</td>
+                        <td>${data.capital}</td>
+                        <td>${data.superficie}</td>
+                        <td>${data.population}</td>
+                        <td>${data.continent}</td>
+                        <td>${data.code_monnaie}</td>
+                        <td>${data.nom_monnaie}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error('Erreur lors du chargement du fichier JSON :', error);
+            });
+    </script>
+</body>
+
+</html>

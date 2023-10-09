@@ -1,0 +1,272 @@
+[
+    {
+        "iso": "AF",
+        "nom": "Afghanistan",
+        "capital": "Kabul",
+        "superficie": 652230,
+        "population": 27657145,
+        "continent": "AS",
+        "code_monnaie": "AFN",
+        "nom_monnaie": "Afghani"
+    },
+    {
+        "iso": "AX",
+        "nom": "Aland Islands",
+        "capital": "Mariehamn",
+        "superficie": 1580,
+        "population": 28875,
+        "continent": "EU",
+        "code_monnaie": "EUR",
+        "nom_monnaie": "Euro"
+    },
+    {
+        "iso": "AL",
+        "nom": "Albania",
+        "capital": "Tirana",
+        "superficie": 28748,
+        "population": 2886026,
+        "continent": "EU",
+        "code_monnaie": "ALL",
+        "nom_monnaie": "Lek"
+    },
+    {
+        "iso": "DZ",
+        "nom": "Algeria",
+        "capital": "Algiers",
+        "superficie": 2381740,
+        "population": 40400000,
+        "continent": "AF",
+        "code_monnaie": "DZD",
+        "nom_monnaie": "Dinar"
+    },
+    {
+        "iso": "AS",
+        "nom": "American Samoa",
+        "capital": "Pago Pago",
+        "superficie": 199,
+        "population": 55519,
+        "continent": "OC",
+        "code_monnaie": "USD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "AD",
+        "nom": "Andorra",
+        "capital": "Andorra la Vella",
+        "superficie": 468,
+        "population": 78014,
+        "continent": "EU",
+        "code_monnaie": "EUR",
+        "nom_monnaie": "Euro"
+    },
+    {
+        "iso": "AO",
+        "nom": "Angola",
+        "capital": "Luanda",
+        "superficie": 1246700,
+        "population": 25868000,
+        "continent": "AF",
+        "code_monnaie": "AOA",
+        "nom_monnaie": "Kwanza"
+    },
+    {
+        "iso": "AI",
+        "nom": "Anguilla",
+        "capital": "The Valley",
+        "superficie": 102,
+        "population": 13452,
+        "continent": "NA",
+        "code_monnaie": "XCD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "AQ",
+        "nom": "Antarctica",
+        "capital": "",
+        "superficie": 14000000,
+        "population": 0,
+        "continent": "AN",
+        "code_monnaie": "",
+        "nom_monnaie": ""
+    },
+    {
+        "iso": "AG",
+        "nom": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "superficie": 443,
+        "population": 86295,
+        "continent": "NA",
+        "code_monnaie": "XCD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "AR",
+        "nom": "Argentina",
+        "capital": "Buenos Aires",
+        "superficie": 2780400,
+        "population": 43590400,
+        "continent": "SA",
+        "code_monnaie": "ARS",
+        "nom_monnaie": "Peso"
+    },
+    {
+        "iso": "AM",
+        "nom": "Armenia",
+        "capital": "Yerevan",
+        "superficie": 29800,
+        "population": 2994400,
+        "continent": "AS",
+        "code_monnaie": "AMD",
+        "nom_monnaie": "Dram"
+    },
+    {
+        "iso": "AW",
+        "nom": "Aruba",
+        "capital": "Oranjestad",
+        "superficie": 193,
+        "population": 107394,
+        "continent": "NA",
+        "code_monnaie": "AWG",
+        "nom_monnaie": "Guilder"
+    },
+    {
+        "iso": "AU",
+        "nom": "Australia",
+        "capital": "Canberra",
+        "superficie": 7686850,
+        "population": 24117360,
+        "continent": "OC",
+        "code_monnaie": "AUD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "AT",
+        "nom": "Austria",
+        "capital": "Vienna",
+        "superficie": 83858,
+        "population": 8219740,
+        "continent": "EU",
+        "code_monnaie": "EUR",
+        "nom_monnaie": "Euro"
+    },
+    {
+        "iso": "AZ",
+        "nom": "Azerbaijan",
+        "capital": "Baku",
+        "superficie": 86600,
+        "population": 9762274,
+        "continent": "AS",
+        "code_monnaie": "AZN",
+        "nom_monnaie": "Manat"
+    },
+    {
+        "iso": "BS",
+        "nom": "Bahamas",
+        "capital": "Nassau",
+        "superficie": 13940,
+        "population": 377374,
+        "continent": "NA",
+        "code_monnaie": "BSD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "BH",
+        "nom": "Bahrain",
+        "capital": "Manama",
+        "superficie": 760,
+        "population": 1404900,
+        "continent": "AS",
+        "code_monnaie": "BHD",
+        "nom_monnaie": "Dinar"
+    },
+    {
+        "iso": "BD",
+        "nom": "Bangladesh",
+        "capital": "Dhaka",
+        "superficie": 144000,
+        "population": 156186882,
+        "continent": "AS",
+        "code_monnaie": "BDT",
+        "nom_monnaie": "Taka"
+    },
+    {
+        "iso": "BB",
+        "nom": "Barbados",
+        "capital": "Bridgetown",
+        "superficie": 431,
+        "population": 285653,
+        "continent": "NA",
+        "code_monnaie": "BBD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "BY",
+        "nom": "Belarus",
+        "capital": "Minsk",
+        "superficie": 207600,
+        "population": 9685000,
+        "continent": "EU",
+        "code_monnaie": "BYN",
+        "nom_monnaie": "Belarusian ruble"
+    },
+    {
+        "iso": "BE",
+        "nom": "Belgium",
+        "capital": "Brussels",
+        "superficie": 30510,
+        "population": 10403000,
+        "continent": "EU",
+        "code_monnaie": "EUR",
+        "nom_monnaie": "Euro"
+    },
+    {
+        "iso": "BZ",
+        "nom": "Belize",
+        "capital": "Belmopan",
+        "superficie": 22966,
+        "population": 314522,
+        "continent": "NA",
+        "code_monnaie": "BZD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "BJ",
+        "nom": "Benin",
+        "capital": "Porto-Novo",
+        "superficie": 112620,
+        "population": 9056010,
+        "continent": "AF",
+        "code_monnaie": "XOF",
+        "nom_monnaie": "Franc"
+    },
+    {
+        "iso": "BM",
+        "nom": "Bermuda",
+        "capital": "Hamilton",
+        "superficie": 53,
+        "population": 65365,
+        "continent": "NA",
+        "code_monnaie": "BMD",
+        "nom_monnaie": "Dollar"
+    },
+    {
+        "iso": "BT",
+        "nom": "Bhutan",
+        "capital": "Thimphu",
+        "superficie": 47000,
+        "population": 699847,
+        "continent": "AS",
+        "code_monnaie": "BTN",
+        "nom_monnaie": "Ngultrum"
+    },
+    {
+        "iso": "BO",
+        "nom": "Bolivia",
+        "capital": "Sucre",
+        "superficie": 1098580,
+        "population": 9947418,
+        "continent": "SA",
+        "code_monnaie": "BOB",
+        "nom_monnaie": "Boliviano"
+    }
+]

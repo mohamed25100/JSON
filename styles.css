@@ -1,0 +1,31 @@
+/* Style pour le tableau */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Style pour l'en-tête du tableau */
+thead {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Style pour les cellules de l'en-tête */
+th {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #fff;
+}
+
+/* Style pour les lignes impaires */
+tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+/* Style pour les cellules du corps du tableau */
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
